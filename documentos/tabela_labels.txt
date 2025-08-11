@@ -2,3 +2,4 @@ LOJA FICTICIA
 RF01 fornecedor
 RF02 estoque 
 RF03 distribuição
+BUG01 erro na contagem no estoque
