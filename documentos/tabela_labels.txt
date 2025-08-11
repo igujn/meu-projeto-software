@@ -1,0 +1,4 @@
+LOJA FICTICIA
+RF01 fornecedor
+RF02 estoque 
+RF03 distribuição
